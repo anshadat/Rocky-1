@@ -1,136 +1,121 @@
 
-
-
-<a href="#"><img title="TOXIC-ALIEN" src="https://img.shields.io/badge/ALIEN ALFA V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<div align="center">
+  <img border-radius: 15px src="Anshad-407x400.png" width="200" height="200"/>
+  <p align="center">
+<a href="#"><img title="Anshad" src="https://img.shields.io/badge/Anshad-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-AneesAns/Alien-Alfa?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/anshadat"><img title="Author" src="https://img.shields.io/badge/Author-anshadat/Rocky?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Anees♕</a> to make it public
+Project created by <a href="https://github.com/anshadat">anshadat</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
----
+----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
-    <img src="https://img.shields.io/github/repo-size/SafwanGanz/Alien-Alfa?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/anshadat/Rocky">
+    <img src="https://img.shields.io/github/repo-size/anshadat/Rocky?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/SafwanGanz/followers"><img title="Followers" src="https://img.shields.io/github/followers/SafwanGanz?color=blue&style=flat-square"></a>
-<a href="https://github.com/SafwanGanz/Alien-Alfa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SafwanGanz/Alien-Alfa?color=blue&style=flat-square"></a>
-<a href="https://github.com/SafwanGanz/Alien-Alfa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/fSafwanGanz/Alien-Alfa?color=blue&style=flat-square"></a>
-<a href="https://github.com/SafwanGanz/Alien-Alfa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SafwanGanz/Alien-Alfa?label=Watchers&color=blue&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+<a href="https://github.com/anshadat/followers"><img title="Followers" src="https://img.shields.io/github/followers/anshadat?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/anshadat/Rocky/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/anshadat/Rocky?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/anshadat/Rocky/network/members"><img title="Forks" src="https://img.shields.io/github/forks/anshadat/Rocky?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/anshadat/Rocky/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/anshadat/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
+
+<h3 align="center">Contact Me:</h3>
+<p align="center">
+<a href="https://instagram.com/ans._had_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+</p>
+<h4 align="center">Support Video For Deploy Bot 👇:</h4>
+<p align="center">
+<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+</p>
+  
+
+<div align="center">
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshdat&show_icons=true&theme=nightowl" alt="anshadat" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshadat&theme=nightowl" alt="anshadat" /></p>
+</details> </div>
+
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
-  <div align="center">
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LcPHxqt27Wk42LAGACrUPd)
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SafwanGanz&repo=Aline-Alfa&theme=nightowl)](https://github.com/SafwanGanz/Alien-Alfa)
-  </div>
-## FOR TERMUX/UBUNTU/SSH USER
-
-```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-apt install imagemagick -y
-git clone https://github.com/aneeslub/Alien-Alfa
     
-cd Alien-Alfa
-npm install
+## Setup
+<div align="center">
+
+  ### Simple Method
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anshadat/Rocky.git)
+     </div>
+<br>
+<br >
+If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
-
----------
-
-## FOR WINDOWS/VPS/RDP USER
-
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
-
-```bash
-git clone https://github.com/Nurutomo/wabot-aq
-cd Alien-Alfa
-npm install
-```
-
----------
-
-## Run
-
-```bash
-node .
-```
-
----------
-
-## Arguments `node . [--options] [<session name>]`
-
-### `--self`
-
-Activate self mode (Ignores other)
-
-### `--prefix <prefixes>`
-
-* `prefixes` are seperated by each character
-Set prefix
-
-### `--server`
-
-Used for [heroku](https://heroku.com/) or scan through website
-
-### `--big-qr`
-
-If small qr unicode doesn't support
-
-### `--restrict`
-
-Enables restricted plugins (which can lead your number to be **banned** if used too often)
-
-* Group Administration `add, kick`
-
-### `--img`
-
-Enable image inspector through terminal
-
-### `--nyimak`
-
-No bot, just print received messages and add users to database
-
-### `--test`
-
-**Development** Testing Mode
-
-### `--trace`
-
+bash <(curl -L https://t.ly/tHxh)
+``` 
+  
+### The Hard Method
 ```js
-conn.logger.level = 'trace'
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/anshadat/Rocky
+$ cd Rocky
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
 ```
-
-### `--debug`
-
+      
 ```js
-conn.logger.level = 'debug'
+SETUP
+$ git clone https://github.com/anshadat/Rocky
+$ cd Rocky
+$ chmod +x *
+$ npm i
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
 ```
 
----------
 
-#### Powered By : [`XTEAM`](https://api.xteam.xyz)
+### ⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, Asena executives do not accept responsibility.
+By establishing the Asena, you are deemed to have accepted these responsibilities.
+```
 
-#### Author / Creator : [`Nurutomo`](https://github.com/Nurutomo)
+## Developers
+  <div align="center">
+    
+  [![anshadat](https://github.com/anshadat.png?size=100)](https://github.com/anshadat) |  [![Anshadvfc](https://github.com/anshadat.png?size=100)](https://github.com/anshadat) | [![Anshad vfc](https://github.com/anshadat.png?size=100)](https://github.com/anshadat) 
+----|----|----
+[anshadat](https://github.com/anshadat)  | [Anshad Vfc](https://github.com/anshadat) | [Anshad Vfc](https://github.com/anshadat)
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+  </div>
+    
 
-#### Most Active Contributor : [`ariffb25`](https://github.com/ariffb25)
 
-#### 2nd Most Active Contributor: [`Ftwrr`](https://github.com/Ftwrr)
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
+
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
