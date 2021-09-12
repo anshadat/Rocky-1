@@ -1,16 +1,16 @@
 {
-  "name": "Toxic-Bot",
+  "name": "Rocky Bot",
   "version": "0.1.1",
-  "description": "Toxic Alien Official whatsapp bot",
+  "description": "Rocky Official whatsapp bot",
   "depecrated": false,
-  "main": "toxic.js",
+  "main": "rocky.js",
   "directories": {
     "lib": "lib",
     "src": "src",
     "plugins": "plugins"
   },
   "scripts": {
-    "start": "node toxic.js",
+    "start": "node rocky.js",
     "test": "node test.js"
   },
   "keywords": [
@@ -19,16 +19,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/SafwanGanz/toxic-bot",
+  "homepage": "https://github.com/anshadat/Rocky-1",
   "author": {
     "name": "ᴛᴏxɪᴄ ᴀʟɪᴇɴ"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SafwanGanz/toxic-bot.git"
+    "url": "git+https://github.com/anshadat/Rocky-1.git"
   },
   "bugs": {
-    "url": "https://github.com/SafwanGanz/toxic-bot/issues"
+    "url": "https://github.com/anshadat/Rocky-1/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
